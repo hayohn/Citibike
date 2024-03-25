@@ -36,7 +36,7 @@ The repository includes the following Tableau visualizations:
 To view these visualizations, you can either:
 
 1. **Tableau Public**: Visit the published visualizations on Tableau Public using the following links:
-   - (https://public.tableau.com/app/profile/haya.abu.sharar/viz/CitiBikeRidesAnalysis/CitibikeAnalysis)
+   - (https://public.tableau.com/views/CitiBikeRidesAnalysis/CitibikeAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
     
 2. **Tableau Desktop**: Download the `.twbx` files from this repository and open them in Tableau Desktop.
 
