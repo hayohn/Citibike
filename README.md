@@ -6,7 +6,7 @@ This repository contains Tableau visualizations analyzing the usage patterns of 
 ## Data Source
 The analysis is based on Citibike trip data from January and July for the years 2021, 2022, and 2023. The data was obtained from the Citibike system and processed to include relevant information such as start and end stations, ride duration, and bike types. https://citibikenyc.com/system-data 
 
-Downloaded files were cleaned and combined in Jupyternotebook.
+Downloaded files were cleaned and combined in Jupyternotebook. the combined csv file is too large to upload in gitbhub.
 
 ## Key Findings
 1. **Significant Seasonal Variations**: The analysis revealed substantial differences in the usage patterns of Citibike start stations between the winter and summer months. The number of trips tends to be higher during summer times, likely due to favorable weather conditions and increased leisure activities.
